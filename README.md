@@ -1,1 +1,2 @@
-# crumpled-balls2-template
+# things to do;
+1. add the images
